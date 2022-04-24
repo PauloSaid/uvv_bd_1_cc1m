@@ -32,3 +32,15 @@
 
 ## Elmasri
 Um dos trabalhos solicitados e desenvolvidos é a implantação do projeto lógico que está descrito nos **Capítulos 5 e 6** do `Elmasri`.
+
+Para começar, utilizamos primeiro o SQL Power Architect para criarmos a seguinte estrutura:
+
+![image](https://user-images.githubusercontent.com/103071726/164987512-25e2b94d-9698-46ff-a294-5c9a7fc0023b.png)
+
+Diante disso, nós conseguimos criar dois scripts, um para o SGBD no `PostgreSQL` e outro no `MariaDB`.
+
+## PostgreSQL
+
+O PostgreSQL é um sistema de gerencionamento de banco de dados relacional, ele foi o primeiro a usarmos para a criação deste projeto.
+
+O passo a passo, desde a criação do `usuário DBA` chamado **Paulo**, até a implantação dos dados, foram armazenados no ***PSet 01***
