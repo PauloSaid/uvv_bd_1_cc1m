@@ -43,4 +43,4 @@ Diante disso, nós conseguimos criar dois scripts, um para o SGBD no `PostgreSQL
 
 O PostgreSQL é um sistema de gerencionamento de banco de dados relacional, ele foi o primeiro a usarmos para a criação deste projeto.
 
-O passo a passo, desde a criação do `usuário DBA` chamado **Paulo**, até a implantação dos dados, foram armazenados no ***PSet 01***
+O passo a passo, desde a criação do `usuário DBA` chamado **Paulo**, até a implantação dos dados, foram armazenados no ***PSet 01***, com o txt nomeado de `PostgreSQL_Script_Elmasri`.
