@@ -18,6 +18,8 @@
 
 • [PostgreSQL](#postgresql)
 
+• [MySQL](#mysql)
+
 ## GIT
 **O `GIT` é um sistema de controle de versões** para o gerenciamento de projetos e possui grande importância.
 
