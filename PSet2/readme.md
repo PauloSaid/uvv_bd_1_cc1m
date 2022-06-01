@@ -12,7 +12,7 @@
 
 ## Elmasri
 
-O projeto lógico do **Elmasri** (que foi explicado no PSet 1) será utilizado para as questões a seguir, portanto, **em todas as questões serão resolvidas na database que criamos anteriormente.**
+O projeto lógico do **Elmasri** (que foi explicado no PSet 1) será utilizado para as questões a seguir, portanto, **todas as questões serão resolvidas na database que criamos anteriormente.**
 
 ![image](https://user-images.githubusercontent.com/103071726/164996413-9ba8b2d7-d05b-4763-8ffa-173a451386b8.png)
 
