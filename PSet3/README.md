@@ -1,5 +1,5 @@
 # PSet 3
-### Esse é o terceiro PSet passado pelo professor Abrantes Araújo Silva Filho, com intuito de compreender a Querries Hierárquicas (Recursivas)
+### Esse é o terceiro PSet passado pelo professor Abrantes Araújo Silva Filho, com intuito de compreender as Querries Hierárquicas (Recursivas)
 
 ---
 ***Professor: Abrantes Araujo Silva Filho***
