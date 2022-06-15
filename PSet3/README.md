@@ -1,5 +1,5 @@
-# PSet 2
-### Esse é o segundo PSet passado pelo professor Abrantes Araújo Silva Filho, com intuito de compreender a Structured Query Language (SQL)
+# PSet 3
+### Esse é o terceiro PSet passado pelo professor Abrantes Araújo Silva Filho, com intuito de compreender a Querries Hierárquicas (Recursivas)
 
 ---
 ***Professor: Abrantes Araujo Silva Filho***
