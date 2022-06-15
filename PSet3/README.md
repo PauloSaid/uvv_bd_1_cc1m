@@ -25,4 +25,6 @@ O projeto lógico do **Elmasri** (que foi explicado no PSet 1) será utilizado p
 
 ![image](https://user-images.githubusercontent.com/103071726/164996413-9ba8b2d7-d05b-4763-8ffa-173a451386b8.png)
 
+Além disso, foram feitas algumas implantações para que seja possível a prática da atividade. Tuda as implantações estão no arquivo pset.sql nesta file.
+
 ---
